@@ -1,0 +1,27 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <Resource name="jdbc/mydb.sqlite"
+              auth="Container"
+              type="javax.sql.DataSource"
+              username=""
+              password=""
+              driverClassName="org.sqlite.JDBC"
+              url="jdbc:sqlite:src/main/External/mydb.sqlite.db"
+              factory="org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory">
+    </Resource>
+</Context>
+=======
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<Context>-->
+    <!--<Resource name="jdbc/mydb.sqlite"-->
+              <!--auth="Container"-->
+              <!--type="javax.sql.DataSource"-->
+              <!--username=""-->
+              <!--password=""-->
+              <!--driverClassName="org.sqlite.JDBC"-->
+              <!--url="jdbc:sqlite:src/main/External/mydb.sqlite.db">-->
+              <!--&lt;!&ndash;factory="org.apache.tomcat.jdbc.pool.DataSourceFactory">&ndash;&gt;-->
+    <!--</Resource>-->
+<!--</Context>-->
+>>>>>>> F19
